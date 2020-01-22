@@ -1,7 +1,7 @@
 System.register(["./MetersSkied"], function (exports_1, context_1) {
     "use strict";
-    var __moduleName = context_1 && context_1.id;
     var MetersSkied_1, container, graph;
+    var __moduleName = context_1 && context_1.id;
     return {
         setters: [
             function (MetersSkied_1_1) {
